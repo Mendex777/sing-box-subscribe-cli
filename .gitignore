@@ -1,0 +1,10 @@
+dist/
+bin/
+/sbs
+/sbs.exe
+/sbs-*
+*.log
+*.tmp
+.DS_Store
+.idea/
+.vscode/
